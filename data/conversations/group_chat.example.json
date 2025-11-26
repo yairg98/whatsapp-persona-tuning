@@ -1,0 +1,30 @@
+{
+  "type": "group_chat",
+  "participants": ["Alice Smith", "Bob Johnson", "Carol Williams"],
+  "timestamp": "20240115_150000",
+  "last_updated": "2024-01-15T15:05:30.654321",
+  "total_messages": 4,
+  "messages": [
+    {
+      "role": "user",
+      "name": "You",
+      "content": "What's everyone doing this weekend?"
+    },
+    {
+      "role": "assistant",
+      "name": "Alice Smith",
+      "content": "I was thinking of checking out that new brunch place!"
+    },
+    {
+      "role": "assistant",
+      "name": "Bob Johnson",
+      "content": "Ooh count me in, I've been wanting to try that too"
+    },
+    {
+      "role": "assistant",
+      "name": "Carol Williams",
+      "content": "Same! What time works for everyone?"
+    }
+  ]
+}
+

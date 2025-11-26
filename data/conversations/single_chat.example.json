@@ -1,0 +1,26 @@
+{
+  "type": "single_chat",
+  "persona": "Alice Smith",
+  "timestamp": "20240115_143022",
+  "last_updated": "2024-01-15T14:30:22.123456",
+  "total_messages": 4,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hey Alice! What are you up to?"
+    },
+    {
+      "role": "assistant",
+      "content": "Not much, just relaxing at home. What's up?"
+    },
+    {
+      "role": "user",
+      "content": "Thinking about grabbing dinner later, want to join?"
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds great! Where were you thinking?"
+    }
+  ]
+}
+
