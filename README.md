@@ -2,6 +2,10 @@
 
 Fine-tune OpenAI GPT models to mimic real people's communication styles using WhatsApp chat exports. This project provides a complete pipeline from raw chat data to interactive conversations with personalized AI personas.
 
+## Project Context
+
+This project was originally created for a [PowerPoint night](https://www.reddit.com/r/powerpoint/comments/1ep3lsb/what_is_a_powerpoint_night/) presentation, where friends take turns presenting on lighthearted or interesting topics. Beyond the fun premise of "replacing my friends with AI simulations," it served as an exploration into lightweight LLM fine-tuning techniques—experimenting with data preparation, prompt engineering, and creating believable conversational AI personas from real messaging data. The [full presentation PDF](Replacing-My-Friends-With-Simulations.pdf) is available in this repository. I highly recommend giving this a try; it's a fun, budget-friendly way to explore LLM fine-tuning and entertain friends!
+
 ## Features
 
 - **WhatsApp Parser**: Robust parsing of WhatsApp chat exports with support for multi-line messages and Unicode handling
